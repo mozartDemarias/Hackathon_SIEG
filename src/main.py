@@ -8,6 +8,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from src.utils.obstacles import fechar_popups
+
 # Carregar Variáveis de Ambiente
 load_dotenv()
 
