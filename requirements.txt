@@ -1,0 +1,20 @@
+# Automação do navegador
+selenium>=4.35,<5.0
+
+# Leitura e processamento de XML
+lxml>=6.0,<7.0
+
+# Configurações e variáveis de ambiente
+python-dotenv>=1.1,<2.0
+
+# Retry / resiliência
+tenacity>=9.1,<10.0
+
+# Logs estruturados e legíveis
+loguru>=0.7,<1.0
+
+# Validação/modelagem dos dados extraídos
+pydantic>=2.11,<3.0
+
+# Testes
+pytest>=8.4,<9.0
